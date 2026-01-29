@@ -4,5 +4,5 @@ function pritage(){
     console.log(this.age)
   },1000)
 }
-
+console.log("hii")
 pritage();
