@@ -1,7 +1,7 @@
 const user = {
   name:"aj",
   age:32,
-  welcome:function(){
+  welcome:()=>{
     console.log(this.name)
     console.log(this)
   }
